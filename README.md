@@ -8,9 +8,9 @@
 ## ファイル構成 (Structure)
 project-root
 
-　　├── analysis.ipynb   # 主な解析を実行する Jupyter Notebook
+　　├── README.md        # このリポジトリの概要や説明
 
-　　└── README.md        # このリポジトリの概要や説明
+　　└── analysis.ipynb   # 主な解析を実行する Jupyter Notebook
 
 ## Requirements / Environment
 　本プロジェクトは Jupyter Notebook の IPython カーネル Python 3.12.4 上で実行および検証されています。
